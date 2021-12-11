@@ -15,6 +15,13 @@
  */
 
 const entries = [
+    {
+        title: "+Page for hw7.*",
+        filename: "aaa_wlados.html",
+        description: "my test page for DevOpsSchool hw7 task *",
+        author: "Vladyslav Boreiko",
+        github: "wladOSnull",
+    },
 	{
 		title: "Dancing Man",
 		filename: "dancing_man.html",
